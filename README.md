@@ -1,4 +1,4 @@
-# Corso - Intruduzione a Python
+# Corso - Introduzione a Python
 Il corso comprende lo svolgimento di esercizi suddivisi in lezioni,
 al termine del corso è stato realizzato un progetto finale.
 
